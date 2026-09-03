@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.financefriend.app",
+      "sha256_cert_fingerprints": [
+        "B5:3C:D4:26:48:2F:A2:96:3F:74:D9:D8:44:15:DB:EF:27:8E:8A:0B:08:7E:E4:E5:E8:3B:AF:6E:9B:22:32:93"
+      ]
+    }
+  }
+]
